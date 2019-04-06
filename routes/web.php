@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/components/task', function () {
+    return view('taskComponent');
+});
+Route::get('/components', function () {
+    return view('components');
+});
+
+Route::get('/sprint', 'SprintPageController@index');

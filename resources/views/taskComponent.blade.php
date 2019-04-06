@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>PMS 380 Project</title>
+        <title>PMS 380 Project Task</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #242424;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -81,13 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    PMSystem Woohoo!
+                    Bp For Tasks
                 </div>
                 <div class="links">
-                    <a href="https://boingboing.net/2019/03/03/watch-your-face-the-clas.html">Your Face</a>
-                    <a href="/sprint">Current Sprint</a>
-                    <a href="https://github.com/auhbz/PMSystem">GitHub</a>
-                    <a href="/components">Components</a>
+                    <a href="/">Return Home</a>
+                    <a href="/components">Return To Components</a>
                 </div>
             </div>
         </div>
